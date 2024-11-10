@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeyondSports", "BeyondSports\BeyondSports.csproj", "{3113DAC0-E027-4C48-B2DF-2B5E3C33E0A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondSports.Tests", "BeyondSports.Tests\BeyondSports.Tests.csproj", "{7EC7BAC0-A13D-4594-9C26-3C5D703D09F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3113DAC0-E027-4C48-B2DF-2B5E3C33E0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3113DAC0-E027-4C48-B2DF-2B5E3C33E0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3113DAC0-E027-4C48-B2DF-2B5E3C33E0A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3113DAC0-E027-4C48-B2DF-2B5E3C33E0A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EC7BAC0-A13D-4594-9C26-3C5D703D09F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC7BAC0-A13D-4594-9C26-3C5D703D09F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC7BAC0-A13D-4594-9C26-3C5D703D09F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC7BAC0-A13D-4594-9C26-3C5D703D09F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FDA54D3-A059-4137-8802-F1D06842A87D}
+	EndGlobalSection
+EndGlobal
