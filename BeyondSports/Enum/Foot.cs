@@ -3,6 +3,7 @@
     public enum Foot
     {
         Left,
-        Right        
+        Right,
+        Both
     }
 }
