@@ -1,4 +1,4 @@
-﻿namespace BeyondSports.DTOs
+﻿namespace BeyondSports.DTO
 {
     public class TeamDto
     {

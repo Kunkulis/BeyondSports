@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using BeyondSports.Validation;
 
-namespace BeyondSports.DTOs
+namespace BeyondSports.DTO
 {
     public class CreatePlayerDto
     {
@@ -10,18 +10,18 @@ namespace BeyondSports.DTOs
         [StringLength(50, MinimumLength = 2)]
         public string Name { get; set; } = null!;
 
-        [Range(1, 99)] 
+        [Range(1, 99)]
         public int Number { get; set; }
 
         [Required]
         [EnumValidation(typeof(Position))]
         public string Position { get; set; } = null!;
 
-        [Required]        
+        [Required]
         [EnumValidation(typeof(Foot))]
         public string Foot { get; set; } = null!;
 
-        [ValidAge(16,50)]        
+        [ValidAge(16, 50)]
         public DateOnly BirthDate { get; set; }
 
         [Range(120, 240)]

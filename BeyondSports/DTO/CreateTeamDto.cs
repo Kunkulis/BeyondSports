@@ -1,7 +1,7 @@
 ﻿using BeyondSports.Validation;
 using System.ComponentModel.DataAnnotations;
 
-namespace BeyondSports.DTOs
+namespace BeyondSports.DTO
 {
     [ValidateTeamProperties]
     public class CreateTeamDto

@@ -1,6 +1,6 @@
 ﻿using BeyondSports.Enum;
 
-namespace BeyondSports.DTOs
+namespace BeyondSports.DTO
 {
     public class PlayerDto
     {

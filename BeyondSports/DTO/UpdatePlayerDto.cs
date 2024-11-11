@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using BeyondSports.Validation;
 
-namespace BeyondSports.DTOs
+namespace BeyondSports.DTO
 {
     public class UpdatePlayerDto
     {

@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using BeyondSports.DTOs;
+using BeyondSports.DTO;
 using BeyondSports.Models;
 
 namespace BeyondSports.MappingProfiles

@@ -1,4 +1,4 @@
-﻿using BeyondSports.DTOs;
+﻿using BeyondSports.DTO;
 using BeyondSports.Services;
 using Microsoft.AspNetCore.Mvc;
 

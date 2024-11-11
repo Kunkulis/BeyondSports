@@ -1,4 +1,4 @@
-﻿using BeyondSports.DTOs;
+﻿using BeyondSports.DTO;
 
 namespace BeyondSports.Services
 {
