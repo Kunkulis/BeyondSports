@@ -5,7 +5,7 @@
 ### 1. Navigate to the Project Directory
 Open a terminal in the directory containing `BeyondSports.csproj`. The path should be `..\BeyondSports\BeyondSports`. To open the terminal:
    - Use **File Explorer**: Navigate to the folder, type `cmd` in the address bar.
-   - Or use **Visual Studio**: Open the project, then open the terminal with `Ctrl + ``. 
+   - Or use **Visual Studio**: Open the project, then open the terminal with ``Ctrl + ` ``. 
 
 If you initially only see one `BeyondSports` folder, navigate one level deeper: `cd .\BeyondSports\`.
 
