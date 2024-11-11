@@ -16,8 +16,8 @@ Run the following command to create the initial migration files:
 ### 3. Run the API
 After setting up migrations, you can start the API:
 
-- **In Visual Studio**: Press F5 to run.
-- **In the terminal**: Run dotnet run to start the API. The terminal will display the URL the API is listening to.
+- **In Visual Studio**: Press `F5` to run.
+- **In the terminal**: Run `dotnet run` to start the API. The terminal will display the URL the API is listening to.
 
 ### 4. Access the API Interface
 Append `/swagger` to the API’s URL to use the Swagger UI for testing the API.
